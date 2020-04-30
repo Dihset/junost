@@ -18,6 +18,7 @@ import {
   developmentPatterns,
   functionalProgramming,
   elasticSearch,
+  webSockets,
 } from '../../tags';
 
 export default [
@@ -40,4 +41,5 @@ export default [
   linuxAdvanced,
   networkAdvanced,
   databasesAdvanced,
+  webSockets,
 ];

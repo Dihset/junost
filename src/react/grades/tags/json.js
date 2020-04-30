@@ -12,7 +12,15 @@ const json = {
     },
     {
       url: 'https://www.youtube.com/watch?v=bw10M9RuR30',
-      name: 'Sorax - "JSON"',
+      name: '(JS) Sorax - "JSON"',
+    },
+    {
+      url: 'https://pythonworld.ru/moduli/modul-json.html',
+      name: '(Python) JSON для чайников',
+    },
+    {
+      url: 'https://github.com/ultrajson/ultrajson',
+      name: '(Python) Если скорости стандартного JSON мало',
     },
   ],
 };

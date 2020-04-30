@@ -12,7 +12,11 @@ const jwt = {
     },
     {
       url: 'https://www.youtube.com/watch?v=7nafaH9SddU&t=1063s',
-      name: 'Traversy Media - "Node.js API Authentication With JWT"',
+      name: '(JS) Traversy Media - "Node.js API Authentication With JWT"',
+    },
+    {
+      url: 'https://github.com/jpadilla/pyjwt',
+      name: '(Python) Простая и удобная библиотека для генерации JWT',
     },
   ],
 };

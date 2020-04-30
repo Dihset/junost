@@ -13,21 +13,21 @@ const designPatterns = {
     {
       url:
         'https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm',
-      name: 'Тимур Шемсединов - "Patterns"',
+      name: '(JS) Тимур Шемсединов - "Patterns"',
     },
     {
       url:
         'https://medium.com/@marina.kovalyova/java-script-design-patterns-569c627d25f9',
-      name: 'Статья на Medium - "Шаблоны проектирования в JavaScript"',
+      name: '(JS) Статья на Medium - "Шаблоны проектирования в JavaScript"',
     },
     {
       url: 'https://github.com/YauhenKavalchuk/design-patterns',
-      name: 'Шаблоны проектирования JavaScript от Yauhen Kavalchuk',
+      name: '(JS) Шаблоны проектирования JavaScript от Yauhen Kavalchuk',
     },
     {
       url:
         'https://www.youtube.com/playlist?list=PLfiFyFs7K9syHZJSfRI5Fc_3tiualZhdK',
-      name: '"Node.js: Design Patterns"',
+      name: '(JS) "Node.js: Design Patterns"',
     },
   ],
 };

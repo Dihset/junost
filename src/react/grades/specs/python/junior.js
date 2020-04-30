@@ -34,7 +34,6 @@ import {
   touchTyping,
   udp,
   vsCode,
-  webSockets,
 } from '../../tags';
 
 export default [
@@ -68,7 +67,6 @@ export default [
   http,
   tcp,
   udp,
-  webSockets,
   ssl,
   codeCommenting,
   touchTyping,

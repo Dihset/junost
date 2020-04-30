@@ -18,7 +18,7 @@ const ajax = {
       url:
         'https://www.youtube.com/watch?v=wMMki2FEYGY&list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0&index=53',
       name:
-        'Тимур Шемсединов - "HTTP запросы в браузере и Node.js: XMLHttpRequest, fetch"',
+        '(JS) Тимур Шемсединов - "HTTP запросы в браузере и Node.js: XMLHttpRequest, fetch"',
     },
   ],
 };

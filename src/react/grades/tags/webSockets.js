@@ -13,13 +13,22 @@ const webSockets = {
     {
       url:
         'https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications',
-      name: 'Туториал на MDN',
+      name: '(JS) Туториал на MDN',
     },
     {
       url: 'https://socket.io/',
       name:
-        'socket.io - самая популярная библиотека для создания веб-приложений на WebSockets',
+        '(JS) socket.io - самая популярная библиотека для создания веб-приложений на WebSockets',
     },
+    {
+      url: 'https://websockets.readthedocs.io/en/stable/',
+      name:
+        '(Python) Асинхронная библиотека для создания веб-приложений на WebSockets',
+    },
+    {
+      url: 'https://channels.readthedocs.io/en/latest/',
+      name: '(Python) Для websockets в Django',
+    }
   ],
 };
 

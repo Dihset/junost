@@ -12,6 +12,10 @@ const django = {
       name: 'Официальный сайт с документацией',
     },
     {
+      url: 'https://djbook.ru/rel1.9/',
+      name: 'Документация на русском (версия немного отстает)'
+    },
+    {
       url: 'https://www.youtube.com/watch?v=JT80XhYJdBw',
       name:
         'Clever Programmer - Python Django Tutorial 2020 - Full Course for Beginners',
